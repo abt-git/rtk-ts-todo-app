@@ -1,2 +1,2 @@
 # rtk-ts-todo-app
-Created with CodeSandbox
+React - Redux Toolkit - TypeScript
